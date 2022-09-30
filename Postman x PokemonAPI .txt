@@ -1,0 +1,7 @@
+Postman x PokemonAPI
+
+https://pokeapi.co/api/v2/berry/enigma/
+https://pokeapi.co/api/v2/pokemon/778/
+https://pokeapi.co/api/v2/generation/2/
+https://pokeapi.co/api/v2/region/kalos/
+https://pokeapi.co/api/v2/encounter-method/
